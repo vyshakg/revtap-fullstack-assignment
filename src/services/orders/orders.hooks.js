@@ -1,8 +1,7 @@
-const print = require("../../hooks/print");
 module.exports = {
   before: {
     all: [],
-    find: [print()],
+    find: [],
     get: [],
     create: [],
     update: [],
