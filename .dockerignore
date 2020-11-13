@@ -1,0 +1,7 @@
+node_modules
+README.md
+.vscode
+coverage
+log
+.git
+test

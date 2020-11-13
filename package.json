@@ -28,7 +28,9 @@
     "lint": "eslint src/. test/. --config .eslintrc.json --fix",
     "dev": "nodemon src/",
     "start": "node src/",
-    "jest": "jest  --forceExit"
+    "jest": "jest  --forceExit",
+    "client:install": "cd ./cleint/ && npm install",
+    "client:build": "cd ./client/ &&  SKIP_PREFLIGHT_CHECK=true npm run build"
   },
   "standard": {
     "env": [
