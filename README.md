@@ -1,5 +1,5 @@
 # revtap-fullstack-assignment
-App is hosted in Heroku using docker container : https://revtap.herokuapp.com/
+App is hosted in Heroku using docker container (REACT) : https://revtap.herokuapp.com/
 
 TECH stack used : 
 - node
