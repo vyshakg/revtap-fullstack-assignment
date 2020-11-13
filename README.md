@@ -2,10 +2,10 @@
 App is hosted in Heroku using docker container : https://revtap.herokuapp.com/
 
 TECH stack used : 
-- NODE
-- FEATHERSJS
-- MONGODB
-- REACT
+- node
+- feathersjs
+- mongodb
+- react
 
 ```
 GET /customers :  returns customers with aggregation of their orders
